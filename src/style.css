@@ -1,0 +1,218 @@
+body{
+	margin: 0;
+	padding: 0;
+	width: 1288px;
+	height: 782px;
+	background-color: #ddd;
+}
+/*top section start*/
+.top_section{
+	margin: 0;
+	padding-top: 20px;
+	display: inline-block;
+	height: 92px;
+	width: 100%;
+	line-height: .5;
+}
+.school_logo{
+	float: left;
+	top: 8px;
+	padding-right: 0px;
+}
+.school_logo img{
+	width: 50px;
+	height: 50px;
+}
+
+.school_name{
+	float: left;
+	font-family: serif;
+	font-style: bold;
+	color: black;
+}
+/*top section end*/
+/*for underline*/
+.line{
+	height: 2px;
+	background-color: black;.
+	margin: 0;
+
+}
+/*start student info*/
+.student_info{
+	margin: 11px 40px;
+	height: 138px;
+}
+/*for Student pic set*/
+.student_pic{
+	height: 130px;
+	margin-top: 0px;
+	overflow: hidden;
+	border: solid 2px black;
+	float: left;
+	width: 10%;
+}
+.info_mid
+{
+	float: left;
+	width: 80%;
+
+}
+/*for head title*/
+.info_top_head{
+	font-family: serif;
+	text-align: center;
+}
+.info_top_head h4{
+	display: inline;
+	margin-top: 0;
+	padding: 2px;
+	border: solid 2px black;
+	font-size: 1rem;
+}
+.info_top_head p{
+	display: block;
+	margin-top: 0px;
+	padding: 1px;
+	text-decoration: underline;
+	font-size: .8rem;
+}
+/*for Student info contant*/
+.info_contant{
+	display: block;
+	margin: -15px 15px;
+	padding:0 5px;
+	border: solid 2px black;
+}
+.info_contant p{
+	font-size: .8rem;
+	margin: 14px;
+
+}
+.info_contant_part1{
+	float: left;
+	width: 33%;
+	display:  block;
+}
+.info_contant_part2{
+	float: left;
+	width: 33%;
+	line-height: .2;
+	text-align: center;
+	display: block;
+}
+.info_contant_part3{
+ 	float: none;
+	display: block;
+	line-height: .2;
+	text-align: right;
+}
+/*end student info*/
+/*Start mark to point table detals*/
+.mark_to_point_detals{
+	height: 130px;
+	margin-top: 0px;
+	text-align: center;
+	border: solid 2px black;
+	float: right;
+	width: 10%;
+}
+.mark_to_point_detals h5{
+	font-size: .5rem;
+	font-family: serif;
+}
+.mark_to_point_detals p{
+	line-height: 0;
+	font-size: 8px;
+	font-family: serif;
+	text-align: center;
+	word-spacing: 16px;
+}
+/*End mark to point table detals*/
+/*Start Result Set Table*/
+.result_table{
+	width: 93%;
+	margin: auto;
+}
+.result_table td {
+  	border: 1px solid black;
+  	text-align: center;
+  	font-size: 10px;
+}
+/*for subject colam */
+.subjrct_Colom{
+	width: 184px;
+}
+.normar_colom{
+	width: 43px;
+}
+.end_colom{
+	width: 65px;
+}
+/*End Result Set Table*/
+/*Start commants table*/
+/*for commants head*/
+.commants_table1{
+	float: left;
+	margin-left: 50px;
+	margin-top: 10px;
+
+}
+.commants_table1 th, td {
+  	border: 1px solid black;
+  	text-align: center;
+  	font-size: 12px;
+}
+
+.top_row_commants{
+	padding: 0 20px;
+	width: auto;
+}
+/*for Present day set table*/
+.reslut_day_count th, td{
+	border: 1px solid black;
+  	text-align: center;
+  	font-size: 10px;
+}
+.reslut_day_count{
+	float: left;
+	margin-left: 4px;
+	margin-top: 10px;
+
+}
+.result_day_count_row{
+	height: 22px;
+	padding: 0 10px;
+}
+/*for singture set table*/
+.Signature_table{
+	float: left;
+	margin-left: 6px;
+	margin-top: 10px;
+}
+.Signature_table th, td{
+	border: 1px solid black;
+  	text-align: center;
+  	font-size: 10px;
+}
+.Signature_table_top_row{
+	height: 22px;
+	padding: 0 10px;
+}
+
+.Signature_table_row{
+	padding: 0 10px;
+	width: 211px;
+	height: 88px;
+} 
+/*For Name & Designation set */
+.line_short{
+	background-color: black;
+	height: 2px;
+	width: 150px;
+	margin: 45px auto auto auto;
+}
+.Signature_table_row p{
+	margin: 0px;
+}
+/*End commants table*/
